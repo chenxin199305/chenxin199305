@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Chen Xin 👋
 
-<!--
-**chenxin199305/chenxin199305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 **Robotics Engineer & Researcher** focused on legged robots, exoskeletons, and embodied AI.
 
-Here are some ideas to get you started:
+I design and develop software for humanoid and rehabilitation robots — from low-level control to high-level motion intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 What I Work On
+
+| Area | Details |
+|------|---------|
+| 🦿 **Legged Robots** | Humanoid robot deployment & SDK (Fourier GRx N1 / M4 / HXC) |
+| 🧠 **Reinforcement Learning** | MuJoCo / MuJoCo MJX sim-to-real for locomotion |
+| 🎯 **Motion Intelligence** | Auto-labeling mocap data with LLMs ([MocapAutoLabeling](https://github.com/chenxin199305/MocapAutoLabeling)), motion tagging ([MUTA](https://github.com/chenxin199305/MUTA)) |
+| 🏥 **Rehabilitation** | Gait event detection (IMU), exoskeleton force sensing, muscle activity estimation |
+| 🛠️ **Robot Tooling** | [PICO](https://github.com/chenxin199305/PICO) — a framework that makes robot development simple |
+
+---
+
+## 🚀 Featured Projects
+
+- **[PICO](https://github.com/chenxin199305/PICO)** — Simplifying robot SDK development in Python
+- **[MocapAutoLabeling](https://github.com/chenxin199305/MocapAutoLabeling)** — LLM-powered auto-labeling for motion capture datasets
+- **[MUTA](https://github.com/chenxin199305/MUTA)** — Motion Understanding & Tagging Agent
+- **[Wiki-GRx-Deploy](https://github.com/chenxin199305/Wiki-GRx-Deploy)** — Deployment guide for Fourier GRx robots
+- **[visual_muscle_activity_estimation](https://github.com/chenxin199305/visual_muscle_activity_estimation)** — Visual + haptic muscle activity estimation
+- **[sensor-imu-gait_event_identification](https://github.com/chenxin199305/sensor-imu-gait_event_identification)** — IMU-based gait event detection
+
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+![MuJoCo](https://img.shields.io/badge/-MuJoCo-FF6F00?style=flat)
+![JAX](https://img.shields.io/badge/-JAX-9C27B0?style=flat)
+![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ros&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Chen Xin's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenxin199305&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chenxin199305&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📫 Get in Touch
+
+<!-- Update with your actual links -->
+- 💼 [LinkedIn](https://linkedin.com/in/YOUR_HANDLE)
+- 📧 your@email.com
