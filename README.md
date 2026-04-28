@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Xin+Chen+%F0%9F%A4%96;Robotics+R%26D+Director+%40+Fourier+Intelligence;Building+humanoid+robots+since+2018;Control+%7C+RL+%7C+Embodied+AI)](https://github.com/chenxin199305)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Xin+Chen+%F0%9F%A4%96;Robotics+R%26D+Director+%40+Fourier+Intelligence;Building+rehabilitation+robots+since+2015;Building+humanoid+robots+since+2021;Control+%7C+RL+%7C+Embodied+AI)](https://github.com/chenxin199305)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-chenxin199305-0A66C2?style=flat&logo=linkedin)](https://cn.linkedin.com/in/chenxin199305)
 [![Email](https://img.shields.io/badge/Email-chenxin199305@163.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chenxin199305@163.com)
