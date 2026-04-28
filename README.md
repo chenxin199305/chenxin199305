@@ -16,8 +16,26 @@
 - 🏢 **R&D Director** @ [Fourier Intelligence (FFTAI)](https://github.com/FFTAI) — leading the robot control system team
 - 🦿 Building **GRx series humanoid robots** (N1 / M4 / HXC) — deployment, SDK, sim-to-real RL
 - 🧠 Interested in **human-robot interaction**, **balance control**, **embodied AI**
+- 🏥 Background in **rehabilitation robotics** — exoskeletons, gait analysis, impedance control
 - 🎓 MPhil @ University of Melbourne · Master's @ Beihang · Bachelor's @ Tianjin University
 - 📜 PMP certified · 5 patents · 2 publications
+
+---
+
+## 🏥 Rehabilitation Robotics
+
+Before humanoids, I spent years building robots that help people recover — exoskeletons for spinal cord injury, stroke, and cerebral palsy patients.
+
+| Technique | Work |
+|-----------|------|
+| **Impedance Control** | Compliant force control for lower-limb exoskeletons — *published* |
+| **Gait Event Detection** | IMU-based real-time gait phase detection · [repo](https://github.com/chenxin199305/sensor-imu-gait_event_identification) · research @ City College of New York (Toyota Mobility Challenge) |
+| **Muscle Activity Estimation** | Visual + haptic feedback to estimate muscle activation during rehab · [repo](https://github.com/chenxin199305/visual_muscle_activity_estimation) |
+| **Exoskeleton Force Sensing** | Force measurement system for lower-limb exoskeleton · MPhil @ University of Melbourne · [repo](https://github.com/chenxin199305/uom-exoskeleton-force-reading) |
+| **Crutch Gait Analysis** | Shoulder reaction force modelling for crutch-assisted exoskeleton walking — *published* |
+| **ExoMotus H4** | PM on commercial exoskeleton product for SCI users · [Android controller](https://github.com/chenxin199305/fftai-exomotus-h4-android-watch) |
+
+> 📜 2 publications · 5 patents across elbow, hip, pelvis & crutch rehabilitation devices
 
 ---
 
