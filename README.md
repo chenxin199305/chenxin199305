@@ -14,7 +14,7 @@
 ## 🤖 About Me
 
 - 🔭 Currently working on **[PICO](https://github.com/chenxin199305/PICO)** — making robot development simple
-- 🏢 **R&D Director** @ [Fourier Intelligence (FFTAI)](https://github.com/FFTAI) — leading the robot control system team
+- 🏢 **R&D Engineer** @ [Fourier Intelligence (FFTAI)](https://github.com/FFTAI) — leading the robot control system team
 - 🦿 Building **GRx series humanoid robots** (N1 / M4 / HXC) — deployment, SDK, sim-to-real RL
 - 🧠 Interested in **human-robot interaction**, **balance control**, **embodied AI**
 - 🏥 Deep background in **rehabilitation robotics** — impedance control, IMU gait detection, muscle activity estimation, exoskeleton force sensing; led **ExoMotus H4** (SCI exoskeleton); 2 publications & 5 patents
