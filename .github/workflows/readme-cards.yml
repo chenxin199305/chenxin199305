@@ -10,28 +10,32 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    env:
+      PAT_1: ${{ secrets.PAT_1 }}
 
     steps:
       - name: Checkout
         uses: actions/checkout@v6
 
       - name: Generate stats card
+        if: env.PAT_1 != ''
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github
           path: assets/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ env.PAT_1 }}
           core_version: 2.2.0
           fail_on_error: true
 
       - name: Generate top languages card
+        if: env.PAT_1 != ''
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide_border=true
           path: assets/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ env.PAT_1 }}
           core_version: 2.2.0
           fail_on_error: true
 
